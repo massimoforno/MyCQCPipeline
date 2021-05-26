@@ -29,7 +29,7 @@
     <dependency>
     <groupId>jakarta.servlet</groupId>
     <artifactId>servlet-api</artifactId>
-    <version>3.0</version>
+    <version>5.0.0</version>
     <scope>provided</scope>
 </dependency>
   </dependencies>
