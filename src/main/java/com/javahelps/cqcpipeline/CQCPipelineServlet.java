@@ -36,7 +36,7 @@ public class CQCPipelineServlet extends HttpServlet {
          + "</h1></body></html>");
         out.print("<html><body><h1 align='center'>" +
         new Date().toString() + "</h1></body></html>");
-        
+        out.print("Happy Deploy!");
     }
 
     /**
