@@ -31,7 +31,7 @@ public class CQCPipelineServlet extends HttpServlet {
      */
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         PrintWriter out = response.getWriter();
-        out.print("<html><body><h1 align='center'> My SUPER Continuous Quality "
+        out.print("<html><body><h1 align='center'> My SUPERRR Continuous Quality "
         		+ "and Compliance Pipeline is perfectly up and running on:"
          + "</h1></body></html>");
         out.print("<html><body><h1 align='center'>" +
