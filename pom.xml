@@ -37,7 +37,7 @@
   <build>
         <finalName>${project.artifactId}</finalName>
         <sourceDirectory>build</sourceDirectory>
-        <directory>${project.basedir}/targets</directory>
+        <directory>${project.basedir}/target</directory>
        
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
